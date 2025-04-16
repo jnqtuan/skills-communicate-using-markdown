@@ -15,3 +15,6 @@ WHERE 1=1
 ORDER BY 1 DESC
 ```
 
+- [x] Task 1
+- [ ] Task 2
+- [x] Task 3
